@@ -36,7 +36,10 @@ public class FunFactsActivity extends AppCompatActivity {
             public void onClick(View v) {
 
                 factTextView.setText(factBook.get());
-                relativeLayout.setBackgroundColor(Color.parseColor(colorWheel.get()));
+                int color = colorWheel.get();
+                relativeLayout.setBackgroundColor(color);
+                showFactButton.setTextColor(color);
+
             }
         };
 

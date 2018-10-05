@@ -1,5 +1,7 @@
 package com.bradib0y.funfacts;
 
+import android.graphics.Color;
+
 import java.util.Random;
 
 public class ColorWheel {
@@ -19,9 +21,9 @@ public class ColorWheel {
             "#b7c0c7"  // light gray
     };
 
-    public String get(){
+    public int get(){
         Random r = new Random();
         int randomNumber = r.nextInt(colors.length);
-        return colors[randomNumber];
+        return Color.parseColor(colors[randomNumber]);
     }
 }
