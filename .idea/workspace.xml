@@ -15,17 +15,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1ffc1d-d472-4431-a2f6-9a6e24be5341" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/bradib0y/funfacts/FactBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/bradib0y/funfacts/ColorWheel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/bradib0y/funfacts/FunFactsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/bradib0y/funfacts/FunFactsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_fun_facts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_fun_facts.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,13 +44,22 @@
       <file leaf-file-name="FunFactsActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/bradib0y/funfacts/FunFactsActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            <state relative-caret-position="494">
+              <caret line="38" column="85" selection-start-line="38" selection-start-column="85" selection-end-line="38" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#680#992#0" expanded="true" />
-                <element signature="e#991#992#0" expanded="true" />
+                <element signature="e#850#1021#0" expanded="true" />
+                <element signature="e#1020#1021#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ColorWheel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/bradib0y/funfacts/ColorWheel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -65,8 +67,8 @@
       <file leaf-file-name="FactBook.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/bradib0y/funfacts/FactBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="17" selection-start-line="17" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -74,8 +76,8 @@
       <file leaf-file-name="activity_fun_facts.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_fun_facts.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-261">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="171">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="35" />
             </state>
           </provider>
           <provider editor-type-id="android-designer2">
@@ -2350,10 +2352,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_fun_facts.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/bradib0y/funfacts/FactBook.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_fun_facts.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/bradib0y/funfacts/ColorWheel.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/bradib0y/funfacts/FunFactsActivity.java" />
       </list>
     </option>
@@ -2683,8 +2686,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_fun_facts.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-261">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="171">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
@@ -2693,19 +2696,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/bradib0y/funfacts/FactBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/bradib0y/funfacts/ColorWheel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/bradib0y/funfacts/FunFactsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="494">
+          <caret line="38" column="85" selection-start-line="38" selection-start-column="85" selection-end-line="38" selection-end-column="85" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#680#992#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#850#1021#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
           </folding>
         </state>
       </provider>
